@@ -119,7 +119,7 @@ if(confirmacao.equalsIgnoreCase("sim")){
 }
 } else {
 System.out.println("Não foram encontrado dados correspondentes ao CNPJ inserido");
-  }
+}
   }
   } 
 }
